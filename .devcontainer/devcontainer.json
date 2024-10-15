@@ -18,7 +18,10 @@
 				"python.testing.pytestArgs": [
 					"pandas"
 				]
-			}
+			},
+			"extensions": [
+				"ms-toolsai.jupyter"
+			]
 		},
 		"extensions": [
         "ms-python.python",
